@@ -14,5 +14,5 @@ Untuk menjalankan program, jalankan
 cd bin
 java Main
 ```
-## Authoe
+## Author
 Farrell Jabaar Altafataza - 10122057
